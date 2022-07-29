@@ -89,7 +89,7 @@ Custom ROS Messages for the RoSA project
 # How to install
 cd ~/catkin_ws/src
 
-git clone https://github.com/DoStraTech/rosa_msgs.git
+git clone https://github.com/RoSA-Study/rosa_msgs.git
 
 cd ..
 
