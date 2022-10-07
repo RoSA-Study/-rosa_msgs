@@ -1,1 +1,2 @@
 Cube[] CubeStatus
+Cube[] HalfSpaces
