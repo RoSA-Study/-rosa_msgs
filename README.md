@@ -85,6 +85,12 @@ Custom ROS Messages for the RoSA project
 	
     KinectBodies.msg
         Contains Kinect v2 Bodies as Body[]
+	
+    Environment.msg
+    	Contains Cube[] messages about the current state of the cubes
+	
+	Cube[] CubeStatus
+	Cube[] HalfSpaces
 
 # How to install
 cd ~/catkin_ws/src
