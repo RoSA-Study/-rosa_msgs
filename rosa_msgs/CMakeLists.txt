@@ -11,17 +11,21 @@ find_package(catkin REQUIRED COMPONENTS
 
 add_message_files(
   FILES
+    AttentionVisual.msg
     FacialHeader.msg
     FacialData.msg
     CubeAction.msg
     RobotAction.msg
-	Cube.msg
-	ProjectionObject.msg
+    Environment.msg
+    Cube.msg
+    ProjectionObject.msg
     Joint.msg
     Body.msg
     KinectBodies.msg
     Detection.msg
     Detections.msg
+    HandBox.msg
+    UserData.msg
 )
 
 add_service_files(
