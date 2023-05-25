@@ -1,0 +1,8 @@
+string pick_wp
+string place_wp
+string object
+
+---
+int16 code
+string object
+string msg

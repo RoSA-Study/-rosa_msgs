@@ -24,6 +24,11 @@ add_message_files(
     Detections.msg
 )
 
+add_service_files(
+	  FILES
+	  PickObject.srv
+)
+
 #catkin_python_setup()
 
 generate_messages(
