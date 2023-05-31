@@ -28,6 +28,11 @@ add_message_files(
     UserData.msg
 )
 
+add_service_files(
+	  FILES
+	  PickObject.srv
+)
+
 #catkin_python_setup()
 
 generate_messages(
